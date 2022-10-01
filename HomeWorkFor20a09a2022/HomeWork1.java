@@ -1,4 +1,6 @@
-public class Main {
+package HomeWorkFor20a09a2022;
+
+public class HomeWork1 {
     public static void main(String[] args) {
         int x = 123;
         int y = x / 100;
