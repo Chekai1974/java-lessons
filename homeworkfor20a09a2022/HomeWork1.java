@@ -1,4 +1,4 @@
-package HomeWorkFor20a09a2022;
+package homeworkfor20a09a2022;
 
 public class HomeWork1 {
     public static void main(String[] args) {

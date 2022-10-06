@@ -1,4 +1,4 @@
-package HomeWorkFor29a09a2022;
+package homeworkfor29a09a2022;
 
 public class ConstruktorHome {
     public static void main(String[] args) {

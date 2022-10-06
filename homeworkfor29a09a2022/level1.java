@@ -1,4 +1,4 @@
-package HomeWorkFor29a09a2022;
+package homeworkfor29a09a2022;
 
 import java.util.Scanner;
 

@@ -1,7 +1,6 @@
-package HomeWorkFor27a09a2022.Level1;
+package homeworkfor27a09a2022.level1;
 
 import java.util.Locale;
-import java.util.Scanner;
 
 public class work {
     public static void main(String[] args) {
