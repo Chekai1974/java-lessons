@@ -14,7 +14,7 @@ public class SecondLevel1 {
         formula(a, b, c);
     }
      static void formula(int a, int b, int c){
-         if (a > b) {
+         if (a > b && a > c) {
              System.out.println(a);
          } else if (c > b) {
              System.out.println(c);
